@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Hakgyoansim Dotbogi';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimDotbogi/HakgyoansimDotbogi.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimDotbogi/HakgyoansimDotbogi.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimDotbogi/HakgyoansimDotbogi.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimDotbogi/HakgyoansimDotbogi.ttf') format('truetype');
+}
